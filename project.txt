@@ -8,3 +8,4 @@ Samit is a Statistician
 Roles within the project need to be determined. 
 We may need a Research Software Engineer to support R and Python programming.
 This person will tell us what we've done wrong in our code. 
+Version control skills will also be useful.
